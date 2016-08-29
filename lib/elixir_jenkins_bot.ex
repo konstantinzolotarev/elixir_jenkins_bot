@@ -1,0 +1,2 @@
+defmodule ElixirJenkinsBot do
+end
